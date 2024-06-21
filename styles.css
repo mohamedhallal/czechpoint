@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: linear-gradient(45deg, #5A7DA5, #5A7DA5);
+    font-family: Arial, sans-serif;
+    color: #FFF;
+    margin-top: 150px;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
+.logo h1 {
+    margin: 10px 0 5px 0;
+    font-size: 2em;
+}
+
+.logo p {
+    margin: 0;
+    font-size: 1em;
+    font-weight: lighter;
+    letter-spacing: 0.1em;
+}
+
+.social-media a, .contact a {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 1.2em;
+}
+
+footer {
+    font-size: 0.8em;
+}
